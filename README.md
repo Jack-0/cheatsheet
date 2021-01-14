@@ -17,3 +17,4 @@ A guide to the intricacies of computer related stuff (Linux)
 | PCI bus connections | lspci |
 | USB bus connections | lsusb |
 | System (OS) info | uname -a |
+| Count line of code in a directory | git ls-files \| xargs wc -l | 
